@@ -2,7 +2,7 @@
   "name": "my-quiz-game",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://ferneyrojas.github.io/appQuizGame",
+  "homepage": "http://ferneyrojas.github.io/appQuizGame/",
   "type": "module",
   "scripts": {
     "dev": "vite",
