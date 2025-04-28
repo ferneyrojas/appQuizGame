@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 // Importamos BrowserRouter, Route y Routes desde react-router-dom
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Menu from './components/Menu'; // Importa el componente del menú
