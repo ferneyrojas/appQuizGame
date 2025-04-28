@@ -1,0 +1,11 @@
+/* Puedes dejar estilos muy básicos aquí si son necesarios,
+   pero la mayoría de los estilos ahora provienen de Tailwind CSS */
+   body {
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Mantener el color de fondo del body */
+    font-family: sans-serif; /* Mantener la fuente si no usas la por defecto de Tailwind */
+  }
+  
+  /* Otros estilos globales si son necesarios */
+  

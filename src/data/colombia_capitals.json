@@ -1,0 +1,322 @@
+[
+    {
+        "question": "¿Cuál es la capital del departamento de Amazonas?",
+        "options": [
+            "Leticia",
+            "Florencia",
+            "Mocoa",
+            "Inírida"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Amazonas"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento de Antioquia?",
+        "options": [
+            "Medellín",
+            "Cali",
+            "Barranquilla",
+            "Bogotá"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/33FF57/000000?text=Antioquia"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento de Arauca?",
+        "options": [
+            "Arauca",
+            "Yopal",
+            "Paz de Ariporo",
+            "Saravena"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/3357FF/FFFFFF?text=Arauca"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento de Atlántico?",
+        "options": [
+            "Barranquilla",
+            "Cartagena",
+            "Santa Marta",
+            "Sincelejo"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/FF33A1/FFFFFF?text=Atlantico"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento de Bolívar?",
+        "options": [
+            "Cartagena",
+            "Sincelejo",
+            "Montería",
+            "Barranquilla"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/A133FF/FFFFFF?text=Bolivar"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento de Boyacá?",
+        "options": [
+            "Tunja",
+            "Sogamoso",
+            "Duitama",
+            "Chiquinquirá"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/33FFA1/000000?text=Boyaca"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento de Caldas?",
+        "options": [
+            "Manizales",
+            "Pereira",
+            "Armenia",
+            "Ibagué"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/A1FF33/000000?text=Caldas"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento de Caquetá?",
+        "options": [
+            "Florencia",
+            "Mocoa",
+            "Pitalito",
+            "San Vicente del Caguán"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Caqueta"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento de Casanare?",
+        "options": [
+            "Yopal",
+            "Arauca",
+            "Villavicencio",
+            "Aguazul"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/33FF57/000000?text=Casanare"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento de Cauca?",
+        "options": [
+            "Popayán",
+            "Pasto",
+            "Cali",
+            "Neiva"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/3357FF/FFFFFF?text=Cauca"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento del Cesar?",
+        "options": [
+            "Valledupar",
+            "Riohacha",
+            "Santa Marta",
+            "Montería"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/FF33A1/FFFFFF?text=Cesar"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento del Chocó?",
+        "options": [
+            "Quibdó",
+            "Buenaventura",
+            "Tumaco",
+            "Istmina"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/A133FF/FFFFFF?text=Choco"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento de Córdoba?",
+        "options": [
+            "Montería",
+            "Sincelejo",
+            "Cartagena",
+            "Apartadó"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/33FFA1/000000?text=Cordoba"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento de Cundinamarca?",
+        "options": [
+            "Bogotá",
+            "Tunja",
+            "Villavicencio",
+            "Girardot"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/A1FF33/000000?text=Cundinamarca"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento de Guainía?",
+        "options": [
+            "Inírida",
+            "Puerto Carreño",
+            "Mitú",
+            "San José del Guaviare"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Guainia"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento del Guaviare?",
+        "options": [
+            "San José del Guaviare",
+            "Mitú",
+            "Inírida",
+            "Florencia"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/33FF57/000000?text=Guaviare"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento del Huila?",
+        "options": [
+            "Neiva",
+            "Pitalito",
+            "Florencia",
+            "Popayán"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/3357FF/FFFFFF?text=Huila"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento de La Guajira?",
+        "options": [
+            "Riohacha",
+            "Valledupar",
+            "Santa Marta",
+            "Maicao"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/FF33A1/FFFFFF?text=La+Guajira"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento del Magdalena?",
+        "options": [
+            "Santa Marta",
+            "Barranquilla",
+            "Cartagena",
+            "Riohacha"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/A133FF/FFFFFF?text=Magdalena"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento del Meta?",
+        "options": [
+            "Villavicencio",
+            "Yopal",
+            "Arauca",
+            "San José del Guaviare"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/33FFA1/000000?text=Meta"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento de Nariño?",
+        "options": [
+            "Pasto",
+            "Popayán",
+            "Tumaco",
+            "Ipiales"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/A1FF33/000000?text=Nari%C3%B1o"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento de Norte de Santander?",
+        "options": [
+            "Cúcuta",
+            "Bucaramanga",
+            "Ocaña",
+            "Pamplona"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Norte+Santander"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento del Putumayo?",
+        "options": [
+            "Mocoa",
+            "Florencia",
+            "Pasto",
+            "Puerto Asís"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/33FF57/000000?text=Putumayo"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento del Quindío?",
+        "options": [
+            "Armenia",
+            "Pereira",
+            "Manizales",
+            "Ibagué"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/3357FF/FFFFFF?text=Quindio"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento de Risaralda?",
+        "options": [
+            "Pereira",
+            "Armenia",
+            "Manizales",
+            "Cali"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/FF33A1/FFFFFF?text=Risaralda"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento de San Andrés y Providencia?",
+        "options": [
+            "San Andrés",
+            "Providencia",
+            "Cartagena",
+            "Santa Marta"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/A133FF/FFFFFF?text=San+Andres"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento de Santander?",
+        "options": [
+            "Bucaramanga",
+            "Cúcuta",
+            "Floridablanca",
+            "Barrancabermeja"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/33FFA1/000000?text=Santander"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento de Sucre?",
+        "options": [
+            "Sincelejo",
+            "Montería",
+            "Cartagena",
+            "Barranquilla"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/A1FF33/000000?text=Sucre"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento del Tolima?",
+        "options": [
+            "Ibagué",
+            "Neiva",
+            "Armenia",
+            "Pereira"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Tolima"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento del Valle del Cauca?",
+        "options": [
+            "Cali",
+            "Popayán",
+            "Pereira",
+            "Buenaventura"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/33FF57/000000?text=Valle+Cauca"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento del Vaupés?",
+        "options": [
+            "Mitú",
+            "Inírida",
+            "San José del Guaviare",
+            "Leticia"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/3357FF/FFFFFF?text=Vaupes"
+    },
+    {
+        "question": "¿Cuál es la capital del departamento del Vichada?",
+        "options": [
+            "Puerto Carreño",
+            "Inírida",
+            "Arauca",
+            "Yopal"
+        ],
+        "imageUrl": "https://via.placeholder.com/150/FF33A1/FFFFFF?text=Vichada"
+    }
+]
