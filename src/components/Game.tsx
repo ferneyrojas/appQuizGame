@@ -124,7 +124,7 @@ const Game: React.FC = () => {
         // Configura un intervalo para actualizar la visualización del temporizador y los círculos cada 100ms
         const countdownInterval = setInterval(() => {
             setTimer(prev => {
-                const newTime = Math.max(0, prev - 100);
+                const newTime = Math.max(0, prev - 100) + (timer - timer);
 
                 // Calcula el tiempo por círculo
                 const timePerCircle = timePerQuestion / 5;
