@@ -1,0 +1,32 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main # Desencadena el workflow en cada push a la rama main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest # Ejecuta el job en un entorno Ubuntu
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4 # Descarga tu código
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20' # Especifica la versión de Node.js que usas
+
+      - name: Install dependencies
+        run: npm install # Instala las dependencias del proyecto
+
+      - name: Build project
+        run: npm run build # Ejecuta el script de construcción (tsc && vite build)
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }} # Token proporcionado por GitHub Actions
+          publish_dir: ./dist # Directorio a publicar (la salida de la construcción de Vite)
+          publish_branch: gh-pages # La rama a la que desplegar
